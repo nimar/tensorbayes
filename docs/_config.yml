@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: TensorBayes
+description: Tensor-based MAP inference in Bayesian Models
+show_downloads: true
+google_analytics: UA-6898706-2
